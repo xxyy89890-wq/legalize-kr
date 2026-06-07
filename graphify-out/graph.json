@@ -1,0 +1,976 @@
+{
+  "directed": false,
+  "multigraph": false,
+  "graph": {
+    "hyperedges": [
+      {
+        "id": "\uc804\uc790\ubb38\uc11c\ucc98\ub9ac_\ud1b5\ud569_\uc2dc\uc2a4\ud15c\uad70",
+        "label": "\uc804\uc790\ubb38\uc11c \ucc98\ub9ac \ud1b5\ud569 \uc2dc\uc2a4\ud15c\uad70 (\uc804\uc790\ubb38\uc11c\uc2dc\uc2a4\ud15c\u00b7\uc5c5\ubb34\uad00\ub9ac\uc2dc\uc2a4\ud15c\u00b7\ud589\uc815\uc815\ubcf4\uc2dc\uc2a4\ud15c \uc5f0\uacc4)",
+        "nodes": [
+          "\ub300\ud1b5\ub839\ub839_\uc804\uc790\ubb38\uc11c\uc2dc\uc2a4\ud15c",
+          "\ub300\ud1b5\ub839\ub839_\uc5c5\ubb34\uad00\ub9ac\uc2dc\uc2a4\ud15c",
+          "\ub300\ud1b5\ub839\ub839_\ud589\uc815\uc815\ubcf4\uc2dc\uc2a4\ud15c"
+        ],
+        "relation": "participate_in",
+        "confidence": "EXTRACTED",
+        "confidence_score": 1.0,
+        "source_file": "kr/\ud589\uc815\uc5c5\ubb34\uc758\uc6b4\uc601\ubc0f\ud601\uc2e0\uc5d0\uad00\ud55c\uaddc\uc815/\ub300\ud1b5\ub839\ub839.md"
+      },
+      {
+        "id": "\uc815\ucc45\uc5f0\uad6c_\uad00\ub9ac_\uccb4\uacc4",
+        "label": "\uc815\ucc45\uc5f0\uad6c \uad00\ub9ac \uccb4\uacc4 (\uc815\ucc45\uc5f0\uad6c\u00b7\uc2ec\uc758\uc704\uc6d0\ud68c\u00b7\uad00\ub9ac\uc2dc\uc2a4\ud15c)",
+        "nodes": [
+          "\ub300\ud1b5\ub839\ub839_\uc815\ucc45\uc5f0\uad6c",
+          "\ub300\ud1b5\ub839\ub839_\uc815\ucc45\uc5f0\uad6c\uc2ec\uc758\uc704\uc6d0\ud68c",
+          "\ub300\ud1b5\ub839\ub839_\uc815\ucc45\uc5f0\uad6c\uad00\ub9ac\uc2dc\uc2a4\ud15c"
+        ],
+        "relation": "form",
+        "confidence": "EXTRACTED",
+        "confidence_score": 1.0,
+        "source_file": "kr/\ud589\uc815\uc5c5\ubb34\uc758\uc6b4\uc601\ubc0f\ud601\uc2e0\uc5d0\uad00\ud55c\uaddc\uc815/\ub300\ud1b5\ub839\ub839.md"
+      },
+      {
+        "id": "\ud589\uc815\uc5c5\ubb34\ud601\uc2e0_\ucd94\uc9c4\uccb4\uacc4",
+        "label": "\ud589\uc815\uc5c5\ubb34 \ud601\uc2e0 \ucd94\uc9c4\uccb4\uacc4 (\ud589\uc815\ud611\uc5c5\u00b7\ud601\uc2e0\ucc45\uc784\uad00\u00b7\ud589\uc815\uc5c5\ubb34\ud601\uc2e0\uc2dc\uc2a4\ud15c)",
+        "nodes": [
+          "\ub300\ud1b5\ub839\ub839_\ud589\uc815\ud611\uc5c5",
+          "\ub300\ud1b5\ub839\ub839_\ud601\uc2e0\ucc45\uc784\uad00",
+          "\ub300\ud1b5\ub839\ub839_\ud589\uc815\uc5c5\ubb34\ud601\uc2e0\uc2dc\uc2a4\ud15c"
+        ],
+        "relation": "participate_in",
+        "confidence": "EXTRACTED",
+        "confidence_score": 1.0,
+        "source_file": "kr/\ud589\uc815\uc5c5\ubb34\uc758\uc6b4\uc601\ubc0f\ud601\uc2e0\uc5d0\uad00\ud55c\uaddc\uc815/\ub300\ud1b5\ub839\ub839.md"
+      }
+    ]
+  },
+  "nodes": [
+    {
+      "label": "\ud589\uc815\uc5c5\ubb34\uc758 \uc6b4\uc601 \ubc0f \ud601\uc2e0\uc5d0 \uad00\ud55c \uaddc\uc815 (\ub300\ud1b5\ub839\ub839)",
+      "file_type": "document",
+      "source_file": "kr/\ud589\uc815\uc5c5\ubb34\uc758\uc6b4\uc601\ubc0f\ud601\uc2e0\uc5d0\uad00\ud55c\uaddc\uc815/\ub300\ud1b5\ub839\ub839.md",
+      "source_location": null,
+      "source_url": "https://www.law.go.kr/\ubc95\ub839/\ud589\uc815\uc5c5\ubb34\uc758\uc6b4\uc601\ubc0f\ud601\uc2e0\uc5d0\uad00\ud55c\uaddc\uc815",
+      "captured_at": "2026-05-19",
+      "author": "\ud589\uc815\uc548\uc804\ubd80",
+      "contributor": null,
+      "id": "\ud589\uc815\uc5c5\ubb34\uc758\uc6b4\uc601\ubc0f\ud601\uc2e0\uc5d0\uad00\ud55c\uaddc\uc815_\ub300\ud1b5\ub839\ub839",
+      "community": 0,
+      "norm_label": "\u1112\u1162\u11bc\u110c\u1165\u11bc\u110b\u1165\u11b8\u1106\u116e\u110b\u1174 \u110b\u116e\u11ab\u110b\u1167\u11bc \u1106\u1175\u11be \u1112\u1167\u11a8\u1109\u1175\u11ab\u110b\u1166 \u1100\u116a\u11ab\u1112\u1161\u11ab \u1100\u1172\u110c\u1165\u11bc (\u1103\u1162\u1110\u1169\u11bc\u1105\u1167\u11bc\u1105\u1167\u11bc)"
+    },
+    {
+      "label": "\ud589\uc815\uc5c5\ubb34\uc758 \uc6b4\uc601 \ubc0f \ud601\uc2e0\uc5d0 \uad00\ud55c \uaddc\uc815 \uc2dc\ud589\uaddc\uce59 (\ud589\uc815\uc548\uc804\ubd80\ub839)",
+      "file_type": "document",
+      "source_file": "kr/\ud589\uc815\uc5c5\ubb34\uc758\uc6b4\uc601\ubc0f\ud601\uc2e0\uc5d0\uad00\ud55c\uaddc\uc815/\uc2dc\ud589\uaddc\uce59.md",
+      "source_location": null,
+      "source_url": "https://www.law.go.kr/\ubc95\ub839/\ud589\uc815\uc5c5\ubb34\uc758\uc6b4\uc601\ubc0f\ud601\uc2e0\uc5d0\uad00\ud55c\uaddc\uc815\uc2dc\ud589\uaddc\uce59",
+      "captured_at": "2023-06-28",
+      "author": "\ud589\uc815\uc548\uc804\ubd80",
+      "contributor": null,
+      "id": "\ud589\uc815\uc5c5\ubb34\uc758\uc6b4\uc601\ubc0f\ud601\uc2e0\uc5d0\uad00\ud55c\uaddc\uc815_\uc2dc\ud589\uaddc\uce59",
+      "community": 1,
+      "norm_label": "\u1112\u1162\u11bc\u110c\u1165\u11bc\u110b\u1165\u11b8\u1106\u116e\u110b\u1174 \u110b\u116e\u11ab\u110b\u1167\u11bc \u1106\u1175\u11be \u1112\u1167\u11a8\u1109\u1175\u11ab\u110b\u1166 \u1100\u116a\u11ab\u1112\u1161\u11ab \u1100\u1172\u110c\u1165\u11bc \u1109\u1175\u1112\u1162\u11bc\u1100\u1172\u110e\u1175\u11a8 (\u1112\u1162\u11bc\u110c\u1165\u11bc\u110b\u1161\u11ab\u110c\u1165\u11ab\u1107\u116e\u1105\u1167\u11bc)"
+    },
+    {
+      "label": "\uacf5\ubb38\uc11c (\ud589\uc815\uae30\uad00 \uacf5\ubb34\uc0c1 \uc791\uc131\u00b7\uc2dc\ud589 \ubb38\uc11c)",
+      "file_type": "concept",
+      "source_file": "kr/\ud589\uc815\uc5c5\ubb34\uc758\uc6b4\uc601\ubc0f\ud601\uc2e0\uc5d0\uad00\ud55c\uaddc\uc815/\ub300\ud1b5\ub839\ub839.md",
+      "source_location": "\uc81c3\uc870\uc81c1\ud638",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "\ub300\ud1b5\ub839\ub839_\uacf5\ubb38\uc11c",
+      "community": 0,
+      "norm_label": "\u1100\u1169\u11bc\u1106\u116e\u11ab\u1109\u1165 (\u1112\u1162\u11bc\u110c\u1165\u11bc\u1100\u1175\u1100\u116a\u11ab \u1100\u1169\u11bc\u1106\u116e\u1109\u1161\u11bc \u110c\u1161\u11a8\u1109\u1165\u11bc\u00b7\u1109\u1175\u1112\u1162\u11bc \u1106\u116e\u11ab\u1109\u1165)"
+    },
+    {
+      "label": "\uc804\uc790\ubb38\uc11c (\uc804\uc790\uc801 \ud615\ud0dc\ub85c \uc791\uc131\u00b7\uc1a1\uc218\uc2e0\u00b7\uc800\uc7a5\ub41c \ubb38\uc11c)",
+      "file_type": "concept",
+      "source_file": "kr/\ud589\uc815\uc5c5\ubb34\uc758\uc6b4\uc601\ubc0f\ud601\uc2e0\uc5d0\uad00\ud55c\uaddc\uc815/\ub300\ud1b5\ub839\ub839.md",
+      "source_location": "\uc81c3\uc870\uc81c2\ud638",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "\ub300\ud1b5\ub839\ub839_\uc804\uc790\ubb38\uc11c",
+      "community": 2,
+      "norm_label": "\u110c\u1165\u11ab\u110c\u1161\u1106\u116e\u11ab\u1109\u1165 (\u110c\u1165\u11ab\u110c\u1161\u110c\u1165\u11a8 \u1112\u1167\u11bc\u1110\u1162\u1105\u1169 \u110c\u1161\u11a8\u1109\u1165\u11bc\u00b7\u1109\u1169\u11bc\u1109\u116e\u1109\u1175\u11ab\u00b7\u110c\u1165\u110c\u1161\u11bc\u1103\u116c\u11ab \u1106\u116e\u11ab\u1109\u1165)"
+    },
+    {
+      "label": "\uc804\uc790\ubb38\uc11c\uc2dc\uc2a4\ud15c",
+      "file_type": "concept",
+      "source_file": "kr/\ud589\uc815\uc5c5\ubb34\uc758\uc6b4\uc601\ubc0f\ud601\uc2e0\uc5d0\uad00\ud55c\uaddc\uc815/\ub300\ud1b5\ub839\ub839.md",
+      "source_location": "\uc81c3\uc870\uc81c10\ud638",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "\ub300\ud1b5\ub839\ub839_\uc804\uc790\ubb38\uc11c\uc2dc\uc2a4\ud15c",
+      "community": 2,
+      "norm_label": "\u110c\u1165\u11ab\u110c\u1161\u1106\u116e\u11ab\u1109\u1165\u1109\u1175\u1109\u1173\u1110\u1166\u11b7"
+    },
+    {
+      "label": "\uc5c5\ubb34\uad00\ub9ac\uc2dc\uc2a4\ud15c",
+      "file_type": "concept",
+      "source_file": "kr/\ud589\uc815\uc5c5\ubb34\uc758\uc6b4\uc601\ubc0f\ud601\uc2e0\uc5d0\uad00\ud55c\uaddc\uc815/\ub300\ud1b5\ub839\ub839.md",
+      "source_location": "\uc81c3\uc870\uc81c11\ud638",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "\ub300\ud1b5\ub839\ub839_\uc5c5\ubb34\uad00\ub9ac\uc2dc\uc2a4\ud15c",
+      "community": 4,
+      "norm_label": "\u110b\u1165\u11b8\u1106\u116e\u1100\u116a\u11ab\u1105\u1175\u1109\u1175\u1109\u1173\u1110\u1166\u11b7"
+    },
+    {
+      "label": "\ud589\uc815\uc815\ubcf4\uc2dc\uc2a4\ud15c",
+      "file_type": "concept",
+      "source_file": "kr/\ud589\uc815\uc5c5\ubb34\uc758\uc6b4\uc601\ubc0f\ud601\uc2e0\uc5d0\uad00\ud55c\uaddc\uc815/\ub300\ud1b5\ub839\ub839.md",
+      "source_location": "\uc81c3\uc870\uc81c12\ud638",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "\ub300\ud1b5\ub839\ub839_\ud589\uc815\uc815\ubcf4\uc2dc\uc2a4\ud15c",
+      "community": 4,
+      "norm_label": "\u1112\u1162\u11bc\u110c\u1165\u11bc\u110c\u1165\u11bc\u1107\u1169\u1109\u1175\u1109\u1173\u1110\u1166\u11b7"
+    },
+    {
+      "label": "\ud589\uc815\uc804\uc790\uc11c\uba85",
+      "file_type": "concept",
+      "source_file": "kr/\ud589\uc815\uc5c5\ubb34\uc758\uc6b4\uc601\ubc0f\ud601\uc2e0\uc5d0\uad00\ud55c\uaddc\uc815/\ub300\ud1b5\ub839\ub839.md",
+      "source_location": "\uc81c3\uc870\uc81c8\ud638",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "\ub300\ud1b5\ub839\ub839_\ud589\uc815\uc804\uc790\uc11c\uba85",
+      "community": 2,
+      "norm_label": "\u1112\u1162\u11bc\u110c\u1165\u11bc\u110c\u1165\u11ab\u110c\u1161\u1109\u1165\u1106\u1167\u11bc"
+    },
+    {
+      "label": "\uc804\uc790\uc774\ubbf8\uc9c0\uad00\uc778",
+      "file_type": "concept",
+      "source_file": "kr/\ud589\uc815\uc5c5\ubb34\uc758\uc6b4\uc601\ubc0f\ud601\uc2e0\uc5d0\uad00\ud55c\uaddc\uc815/\ub300\ud1b5\ub839\ub839.md",
+      "source_location": "\uc81c3\uc870\uc81c9\ud638",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "\ub300\ud1b5\ub839\ub839_\uc804\uc790\uc774\ubbf8\uc9c0\uad00\uc778",
+      "community": 3,
+      "norm_label": "\u110c\u1165\u11ab\u110c\u1161\u110b\u1175\u1106\u1175\u110c\u1175\u1100\u116a\u11ab\u110b\u1175\u11ab"
+    },
+    {
+      "label": "\uad00\uc778 (\uccad\uc778\u00b7\uc9c1\uc778)",
+      "file_type": "concept",
+      "source_file": "kr/\ud589\uc815\uc5c5\ubb34\uc758\uc6b4\uc601\ubc0f\ud601\uc2e0\uc5d0\uad00\ud55c\uaddc\uc815/\ub300\ud1b5\ub839\ub839.md",
+      "source_location": "\uc81c33\uc870",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "\ub300\ud1b5\ub839\ub839_\uad00\uc778",
+      "community": 3,
+      "norm_label": "\u1100\u116a\u11ab\u110b\u1175\u11ab (\u110e\u1165\u11bc\u110b\u1175\u11ab\u00b7\u110c\u1175\u11a8\u110b\u1175\u11ab)"
+    },
+    {
+      "label": "\ubb38\uc11c \uacb0\uc7ac \uc808\ucc28 (\uacb0\uc7ac\u00b7\uc704\uc784\uc804\uacb0\u00b7\ub300\uacb0)",
+      "file_type": "concept",
+      "source_file": "kr/\ud589\uc815\uc5c5\ubb34\uc758\uc6b4\uc601\ubc0f\ud601\uc2e0\uc5d0\uad00\ud55c\uaddc\uc815/\ub300\ud1b5\ub839\ub839.md",
+      "source_location": "\uc81c10\uc870",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "\ub300\ud1b5\ub839\ub839_\ubb38\uc11c\uacb0\uc7ac",
+      "community": 0,
+      "norm_label": "\u1106\u116e\u11ab\u1109\u1165 \u1100\u1167\u11af\u110c\u1162 \u110c\u1165\u11af\u110e\u1161 (\u1100\u1167\u11af\u110c\u1162\u00b7\u110b\u1171\u110b\u1175\u11b7\u110c\u1165\u11ab\u1100\u1167\u11af\u00b7\u1103\u1162\u1100\u1167\u11af)"
+    },
+    {
+      "label": "\uc815\ucc45\uc5f0\uad6c (\uc911\uc559\ud589\uc815\uae30\uad00 \uc5f0\uad6c\uacfc\uc81c \uacc4\uc57d)",
+      "file_type": "concept",
+      "source_file": "kr/\ud589\uc815\uc5c5\ubb34\uc758\uc6b4\uc601\ubc0f\ud601\uc2e0\uc5d0\uad00\ud55c\uaddc\uc815/\ub300\ud1b5\ub839\ub839.md",
+      "source_location": "\uc81c49\uc870",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "\ub300\ud1b5\ub839\ub839_\uc815\ucc45\uc5f0\uad6c",
+      "community": 0,
+      "norm_label": "\u110c\u1165\u11bc\u110e\u1162\u11a8\u110b\u1167\u11ab\u1100\u116e (\u110c\u116e\u11bc\u110b\u1161\u11bc\u1112\u1162\u11bc\u110c\u1165\u11bc\u1100\u1175\u1100\u116a\u11ab \u110b\u1167\u11ab\u1100\u116e\u1100\u116a\u110c\u1166 \u1100\u1168\u110b\u1163\u11a8)"
+    },
+    {
+      "label": "\uc815\ucc45\uc5f0\uad6c\uc2ec\uc758\uc704\uc6d0\ud68c",
+      "file_type": "concept",
+      "source_file": "kr/\ud589\uc815\uc5c5\ubb34\uc758\uc6b4\uc601\ubc0f\ud601\uc2e0\uc5d0\uad00\ud55c\uaddc\uc815/\ub300\ud1b5\ub839\ub839.md",
+      "source_location": "\uc81c50\uc870",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "\ub300\ud1b5\ub839\ub839_\uc815\ucc45\uc5f0\uad6c\uc2ec\uc758\uc704\uc6d0\ud68c",
+      "community": 1,
+      "norm_label": "\u110c\u1165\u11bc\u110e\u1162\u11a8\u110b\u1167\u11ab\u1100\u116e\u1109\u1175\u11b7\u110b\u1174\u110b\u1171\u110b\u116f\u11ab\u1112\u116c"
+    },
+    {
+      "label": "\uc815\ucc45\uc5f0\uad6c\uad00\ub9ac\uc2dc\uc2a4\ud15c",
+      "file_type": "concept",
+      "source_file": "kr/\ud589\uc815\uc5c5\ubb34\uc758\uc6b4\uc601\ubc0f\ud601\uc2e0\uc5d0\uad00\ud55c\uaddc\uc815/\ub300\ud1b5\ub839\ub839.md",
+      "source_location": "\uc81c53\uc870",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "\ub300\ud1b5\ub839\ub839_\uc815\ucc45\uc5f0\uad6c\uad00\ub9ac\uc2dc\uc2a4\ud15c",
+      "community": 0,
+      "norm_label": "\u110c\u1165\u11bc\u110e\u1162\u11a8\u110b\u1167\u11ab\u1100\u116e\u1100\u116a\u11ab\u1105\u1175\u1109\u1175\u1109\u1173\u1110\u1166\u11b7"
+    },
+    {
+      "label": "\ud589\uc815\ud611\uc5c5 \ubc0f \ud589\uc815\ud611\uc5c5\uacfc\uc81c",
+      "file_type": "concept",
+      "source_file": "kr/\ud589\uc815\uc5c5\ubb34\uc758\uc6b4\uc601\ubc0f\ud601\uc2e0\uc5d0\uad00\ud55c\uaddc\uc815/\ub300\ud1b5\ub839\ub839.md",
+      "source_location": "\uc81c42\uc870",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "\ub300\ud1b5\ub839\ub839_\ud589\uc815\ud611\uc5c5",
+      "community": 0,
+      "norm_label": "\u1112\u1162\u11bc\u110c\u1165\u11bc\u1112\u1167\u11b8\u110b\u1165\u11b8 \u1106\u1175\u11be \u1112\u1162\u11bc\u110c\u1165\u11bc\u1112\u1167\u11b8\u110b\u1165\u11b8\u1100\u116a\u110c\u1166"
+    },
+    {
+      "label": "\ud589\uc815\uc5c5\ubb34\ud601\uc2e0\uc2dc\uc2a4\ud15c",
+      "file_type": "concept",
+      "source_file": "kr/\ud589\uc815\uc5c5\ubb34\uc758\uc6b4\uc601\ubc0f\ud601\uc2e0\uc5d0\uad00\ud55c\uaddc\uc815/\ub300\ud1b5\ub839\ub839.md",
+      "source_location": "\uc81c46\uc870\uc7582",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "\ub300\ud1b5\ub839\ub839_\ud589\uc815\uc5c5\ubb34\ud601\uc2e0\uc2dc\uc2a4\ud15c",
+      "community": 0,
+      "norm_label": "\u1112\u1162\u11bc\u110c\u1165\u11bc\u110b\u1165\u11b8\u1106\u116e\u1112\u1167\u11a8\u1109\u1175\u11ab\u1109\u1175\u1109\u1173\u1110\u1166\u11b7"
+    },
+    {
+      "label": "\ud601\uc2e0\ucc45\uc784\uad00",
+      "file_type": "concept",
+      "source_file": "kr/\ud589\uc815\uc5c5\ubb34\uc758\uc6b4\uc601\ubc0f\ud601\uc2e0\uc5d0\uad00\ud55c\uaddc\uc815/\ub300\ud1b5\ub839\ub839.md",
+      "source_location": "\uc81c46\uc870",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "\ub300\ud1b5\ub839\ub839_\ud601\uc2e0\ucc45\uc784\uad00",
+      "community": 0,
+      "norm_label": "\u1112\u1167\u11a8\u1109\u1175\u11ab\u110e\u1162\u11a8\u110b\u1175\u11b7\u1100\u116a\u11ab"
+    },
+    {
+      "label": "\uc815\ucc45\uc2e4\uba85\uc81c",
+      "file_type": "concept",
+      "source_file": "kr/\ud589\uc815\uc5c5\ubb34\uc758\uc6b4\uc601\ubc0f\ud601\uc2e0\uc5d0\uad00\ud55c\uaddc\uc815/\ub300\ud1b5\ub839\ub839.md",
+      "source_location": "\uc81c3\uc870\uc81c14\ud638, \uc81c63\uc870~\uc81c63\uc870\uc7585",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "\ub300\ud1b5\ub839\ub839_\uc815\ucc45\uc2e4\uba85\uc81c",
+      "community": 0,
+      "norm_label": "\u110c\u1165\u11bc\u110e\u1162\u11a8\u1109\u1175\u11af\u1106\u1167\u11bc\u110c\u1166"
+    },
+    {
+      "label": "\uc9c0\uc2dd\ud589\uc815 (\ud589\uc815\uc9c0\uc2dd \uacf5\ub3d9\uc774\uc6a9)",
+      "file_type": "concept",
+      "source_file": "kr/\ud589\uc815\uc5c5\ubb34\uc758\uc6b4\uc601\ubc0f\ud601\uc2e0\uc5d0\uad00\ud55c\uaddc\uc815/\ub300\ud1b5\ub839\ub839.md",
+      "source_location": "\uc81c43\uc870\uc7582",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "\ub300\ud1b5\ub839\ub839_\uc9c0\uc2dd\ud589\uc815",
+      "community": 4,
+      "norm_label": "\u110c\u1175\u1109\u1175\u11a8\u1112\u1162\u11bc\u110c\u1165\u11bc (\u1112\u1162\u11bc\u110c\u1165\u11bc\u110c\u1175\u1109\u1175\u11a8 \u1100\u1169\u11bc\u1103\u1169\u11bc\u110b\u1175\u110b\u116d\u11bc)"
+    },
+    {
+      "label": "\uc815\ubd80\uc804\uc790\ubb38\uc11c\uc720\ud1b5\uc9c0\uc6d0\uc13c\ud130",
+      "file_type": "concept",
+      "source_file": "kr/\ud589\uc815\uc5c5\ubb34\uc758\uc6b4\uc601\ubc0f\ud601\uc2e0\uc5d0\uad00\ud55c\uaddc\uc815/\ub300\ud1b5\ub839\ub839.md",
+      "source_location": "\uc81c25\uc870",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "\ub300\ud1b5\ub839\ub839_\uc815\ubd80\uc804\uc790\ubb38\uc11c\uc720\ud1b5\uc9c0\uc6d0\uc13c\ud130",
+      "community": 2,
+      "norm_label": "\u110c\u1165\u11bc\u1107\u116e\u110c\u1165\u11ab\u110c\u1161\u1106\u116e\u11ab\u1109\u1165\u110b\u1172\u1110\u1169\u11bc\u110c\u1175\u110b\u116f\u11ab\u1109\u1166\u11ab\u1110\u1165"
+    },
+    {
+      "label": "\uc601\uc0c1\ud68c\uc758\uc2e4 (\uc815\ubd80\uc601\uc0c1\ud68c\uc758\uc2e4 \ud3ec\ud568)",
+      "file_type": "concept",
+      "source_file": "kr/\ud589\uc815\uc5c5\ubb34\uc758\uc6b4\uc601\ubc0f\ud601\uc2e0\uc5d0\uad00\ud55c\uaddc\uc815/\ub300\ud1b5\ub839\ub839.md",
+      "source_location": "\uc81c57\uc870",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "\ub300\ud1b5\ub839\ub839_\uc601\uc0c1\ud68c\uc758\uc2e4",
+      "community": 0,
+      "norm_label": "\u110b\u1167\u11bc\u1109\u1161\u11bc\u1112\u116c\u110b\u1174\u1109\u1175\u11af (\u110c\u1165\u11bc\u1107\u116e\u110b\u1167\u11bc\u1109\u1161\u11bc\u1112\u116c\u110b\u1174\u1109\u1175\u11af \u1111\u1169\u1112\u1161\u11b7)"
+    },
+    {
+      "label": "\uc11c\uc2dd (\ud589\uc815\uae30\uad00 \uacf5\ud1b5 \ubc18\ubcf5 \ubb38\uc11c \uc591\uc2dd)",
+      "file_type": "concept",
+      "source_file": "kr/\ud589\uc815\uc5c5\ubb34\uc758\uc6b4\uc601\ubc0f\ud601\uc2e0\uc5d0\uad00\ud55c\uaddc\uc815/\ub300\ud1b5\ub839\ub839.md",
+      "source_location": "\uc81c26\uc870~\uc81c32\uc870",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "\ub300\ud1b5\ub839\ub839_\uc11c\uc2dd",
+      "community": 1,
+      "norm_label": "\u1109\u1165\u1109\u1175\u11a8 (\u1112\u1162\u11bc\u110c\u1165\u11bc\u1100\u1175\u1100\u116a\u11ab \u1100\u1169\u11bc\u1110\u1169\u11bc \u1107\u1161\u11ab\u1107\u1169\u11a8 \u1106\u116e\u11ab\u1109\u1165 \u110b\u1163\u11bc\u1109\u1175\u11a8)"
+    },
+    {
+      "label": "\uae30\uc548\ubb38 (\ubb38\uc11c \uae30\uc548 \uc11c\uc2dd)",
+      "file_type": "concept",
+      "source_file": "kr/\ud589\uc815\uc5c5\ubb34\uc758\uc6b4\uc601\ubc0f\ud601\uc2e0\uc5d0\uad00\ud55c\uaddc\uc815/\ub300\ud1b5\ub839\ub839.md",
+      "source_location": "\uc81c8\uc870",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "\ub300\ud1b5\ub839\ub839_\uae30\uc548\ubb38",
+      "community": 1,
+      "norm_label": "\u1100\u1175\u110b\u1161\u11ab\u1106\u116e\u11ab (\u1106\u116e\u11ab\u1109\u1165 \u1100\u1175\u110b\u1161\u11ab \u1109\u1165\u1109\u1175\u11a8)"
+    },
+    {
+      "label": "\uae30\uc548\ubb38 \uc11c\uc2dd (\ubcc4\uc9c0 \uc81c1\ud638~\uc81c4\ud638 \uc11c\uc2dd)",
+      "file_type": "document",
+      "source_file": "kr/\ud589\uc815\uc5c5\ubb34\uc758\uc6b4\uc601\ubc0f\ud601\uc2e0\uc5d0\uad00\ud55c\uaddc\uc815/\uc2dc\ud589\uaddc\uce59.md",
+      "source_location": "\uc81c3\uc870, \ubcc4\uc9c0 \uc11c\uc2dd",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "\uc2dc\ud589\uaddc\uce59_\uae30\uc548\ubb38_\uc11c\uc2dd",
+      "community": 1,
+      "norm_label": "\u1100\u1175\u110b\u1161\u11ab\u1106\u116e\u11ab \u1109\u1165\u1109\u1175\u11a8 (\u1107\u1167\u11af\u110c\u1175 \u110c\u11661\u1112\u1169~\u110c\u11664\u1112\u1169 \u1109\u1165\u1109\u1175\u11a8)"
+    },
+    {
+      "label": "\uad00\uc778\ub300\uc7a5 (\ubcc4\uc9c0 \uc81c7\ud638 \uc11c\uc2dd)",
+      "file_type": "document",
+      "source_file": "kr/\ud589\uc815\uc5c5\ubb34\uc758\uc6b4\uc601\ubc0f\ud601\uc2e0\uc5d0\uad00\ud55c\uaddc\uc815/\uc2dc\ud589\uaddc\uce59.md",
+      "source_location": "\uc81c29\uc870, \ubcc4\uc9c0 \uc81c7\ud638",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "\uc2dc\ud589\uaddc\uce59_\uad00\uc778\ub300\uc7a5",
+      "community": 3,
+      "norm_label": "\u1100\u116a\u11ab\u110b\u1175\u11ab\u1103\u1162\u110c\u1161\u11bc (\u1107\u1167\u11af\u110c\u1175 \u110c\u11667\u1112\u1169 \u1109\u1165\u1109\u1175\u11a8)"
+    },
+    {
+      "label": "\uc804\uc790\uc774\ubbf8\uc9c0\uad00\uc778\ub300\uc7a5 (\ubcc4\uc9c0 \uc81c8\ud638 \uc11c\uc2dd)",
+      "file_type": "document",
+      "source_file": "kr/\ud589\uc815\uc5c5\ubb34\uc758\uc6b4\uc601\ubc0f\ud601\uc2e0\uc5d0\uad00\ud55c\uaddc\uc815/\uc2dc\ud589\uaddc\uce59.md",
+      "source_location": "\uc81c29\uc870, \ubcc4\uc9c0 \uc81c8\ud638",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "\uc2dc\ud589\uaddc\uce59_\uc804\uc790\uc774\ubbf8\uc9c0\uad00\uc778\ub300\uc7a5",
+      "community": 3,
+      "norm_label": "\u110c\u1165\u11ab\u110c\u1161\u110b\u1175\u1106\u1175\u110c\u1175\u1100\u116a\u11ab\u110b\u1175\u11ab\u1103\u1162\u110c\u1161\u11bc (\u1107\u1167\u11af\u110c\u1175 \u110c\u11668\u1112\u1169 \u1109\u1165\u1109\u1175\u11a8)"
+    },
+    {
+      "label": "\ubb38\uc11c\uad00\ub9ac\uce74\ub4dc (\ubcc4\uc9c0 \uc81c6\ud638 \uc11c\uc2dd)",
+      "file_type": "document",
+      "source_file": "kr/\ud589\uc815\uc5c5\ubb34\uc758\uc6b4\uc601\ubc0f\ud601\uc2e0\uc5d0\uad00\ud55c\uaddc\uc815/\uc2dc\ud589\uaddc\uce59.md",
+      "source_location": "\uc81c21\uc870, \ubcc4\uc9c0 \uc81c6\ud638",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "\uc2dc\ud589\uaddc\uce59_\ubb38\uc11c\uad00\ub9ac\uce74\ub4dc",
+      "community": 4,
+      "norm_label": "\u1106\u116e\u11ab\u1109\u1165\u1100\u116a\u11ab\u1105\u1175\u110f\u1161\u1103\u1173 (\u1107\u1167\u11af\u110c\u1175 \u110c\u11666\u1112\u1169 \u1109\u1165\u1109\u1175\u11a8)"
+    },
+    {
+      "label": "\uc815\ucc45\uc5f0\uad6c\uc2ec\uc758\uc704\uc6d0\ud68c \uad6c\uc131\u00b7\uc6b4\uc601 (\uc2dc\ud589\uaddc\uce59)",
+      "file_type": "concept",
+      "source_file": "kr/\ud589\uc815\uc5c5\ubb34\uc758\uc6b4\uc601\ubc0f\ud601\uc2e0\uc5d0\uad00\ud55c\uaddc\uc815/\uc2dc\ud589\uaddc\uce59.md",
+      "source_location": "\uc81c35\uc870~\uc81c41\uc870",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "\uc2dc\ud589\uaddc\uce59_\uc815\ucc45\uc5f0\uad6c\uc2ec\uc758\uc704\uc6d0\ud68c_\uad6c\uc131",
+      "community": 1,
+      "norm_label": "\u110c\u1165\u11bc\u110e\u1162\u11a8\u110b\u1167\u11ab\u1100\u116e\u1109\u1175\u11b7\u110b\u1174\u110b\u1171\u110b\u116f\u11ab\u1112\u116c \u1100\u116e\u1109\u1165\u11bc\u00b7\u110b\u116e\u11ab\u110b\u1167\u11bc (\u1109\u1175\u1112\u1162\u11bc\u1100\u1172\u110e\u1175\u11a8)"
+    },
+    {
+      "label": "\uc815\ubd80\uc601\uc0c1\ud68c\uc758\uc2e4 \uad00\ub9ac\u00b7\uc6b4\uc601 (\uc2dc\ud589\uaddc\uce59)",
+      "file_type": "concept",
+      "source_file": "kr/\ud589\uc815\uc5c5\ubb34\uc758\uc6b4\uc601\ubc0f\ud601\uc2e0\uc5d0\uad00\ud55c\uaddc\uc815/\uc2dc\ud589\uaddc\uce59.md",
+      "source_location": "\uc81c43\uc870~\uc81c44\uc870",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "\uc2dc\ud589\uaddc\uce59_\uc601\uc0c1\ud68c\uc758\uc2e4_\uc6b4\uc601",
+      "community": 1,
+      "norm_label": "\u110c\u1165\u11bc\u1107\u116e\u110b\u1167\u11bc\u1109\u1161\u11bc\u1112\u116c\u110b\u1174\u1109\u1175\u11af \u1100\u116a\u11ab\u1105\u1175\u00b7\u110b\u116e\u11ab\u110b\u1167\u11bc (\u1109\u1175\u1112\u1162\u11bc\u1100\u1172\u110e\u1175\u11a8)"
+    },
+    {
+      "label": "\uc11c\uc2dd \uc124\uacc4 \uae30\uc900 (\ubcc4\ud45c 4\u00b75)",
+      "file_type": "concept",
+      "source_file": "kr/\ud589\uc815\uc5c5\ubb34\uc758\uc6b4\uc601\ubc0f\ud601\uc2e0\uc5d0\uad00\ud55c\uaddc\uc815/\uc2dc\ud589\uaddc\uce59.md",
+      "source_location": "\uc81c24\uc870",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "\uc2dc\ud589\uaddc\uce59_\uc11c\uc2dd\uc124\uacc4\uae30\uc900",
+      "community": 1,
+      "norm_label": "\u1109\u1165\u1109\u1175\u11a8 \u1109\u1165\u11af\u1100\u1168 \u1100\u1175\u110c\u116e\u11ab (\u1107\u1167\u11af\u1111\u116d 4\u00b75)"
+    },
+    {
+      "label": "\uac1c\ubc29\ud615 \ubb38\uc11c \ud615\uc2dd (\uae30\uacc4 \ud310\ub3c5 \uac00\ub2a5, \ud45c\uc900 \uacf5\uac1c)",
+      "file_type": "concept",
+      "source_file": "kr/\ud589\uc815\uc5c5\ubb34\uc758\uc6b4\uc601\ubc0f\ud601\uc2e0\uc5d0\uad00\ud55c\uaddc\uc815/\ub300\ud1b5\ub839\ub839.md",
+      "source_location": "\uc81c3\uc870\uc81c2\ud638\uc7582",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "\ub300\ud1b5\ub839\ub839_\uac1c\ubc29\ud615\ubb38\uc11c\ud615\uc2dd",
+      "community": 2,
+      "norm_label": "\u1100\u1162\u1107\u1161\u11bc\u1112\u1167\u11bc \u1106\u116e\u11ab\u1109\u1165 \u1112\u1167\u11bc\u1109\u1175\u11a8 (\u1100\u1175\u1100\u1168 \u1111\u1161\u11ab\u1103\u1169\u11a8 \u1100\u1161\u1102\u1173\u11bc, \u1111\u116d\u110c\u116e\u11ab \u1100\u1169\u11bc\u1100\u1162)"
+    }
+  ],
+  "links": [
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "kr/\ud589\uc815\uc5c5\ubb34\uc758\uc6b4\uc601\ubc0f\ud601\uc2e0\uc5d0\uad00\ud55c\uaddc\uc815/\ub300\ud1b5\ub839\ub839.md",
+      "source_location": "\uc81c3\uc870\uc81c2\ud638\uc7582, \uc81c5\uc870\uc81c2\ud56d",
+      "weight": 1.0,
+      "source": "\ud589\uc815\uc5c5\ubb34\uc758\uc6b4\uc601\ubc0f\ud601\uc2e0\uc5d0\uad00\ud55c\uaddc\uc815_\ub300\ud1b5\ub839\ub839",
+      "target": "\ub300\ud1b5\ub839\ub839_\uac1c\ubc29\ud615\ubb38\uc11c\ud615\uc2dd"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "kr/\ud589\uc815\uc5c5\ubb34\uc758\uc6b4\uc601\ubc0f\ud601\uc2e0\uc5d0\uad00\ud55c\uaddc\uc815/\ub300\ud1b5\ub839\ub839.md",
+      "source_location": "\uc81c3\uc870\uc81c1\ud638",
+      "weight": 1.0,
+      "source": "\ud589\uc815\uc5c5\ubb34\uc758\uc6b4\uc601\ubc0f\ud601\uc2e0\uc5d0\uad00\ud55c\uaddc\uc815_\ub300\ud1b5\ub839\ub839",
+      "target": "\ub300\ud1b5\ub839\ub839_\uacf5\ubb38\uc11c"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "kr/\ud589\uc815\uc5c5\ubb34\uc758\uc6b4\uc601\ubc0f\ud601\uc2e0\uc5d0\uad00\ud55c\uaddc\uc815/\ub300\ud1b5\ub839\ub839.md",
+      "source_location": "\uc81c33\uc870~\uc81c40\uc870",
+      "weight": 1.0,
+      "source": "\ud589\uc815\uc5c5\ubb34\uc758\uc6b4\uc601\ubc0f\ud601\uc2e0\uc5d0\uad00\ud55c\uaddc\uc815_\ub300\ud1b5\ub839\ub839",
+      "target": "\ub300\ud1b5\ub839\ub839_\uad00\uc778"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "kr/\ud589\uc815\uc5c5\ubb34\uc758\uc6b4\uc601\ubc0f\ud601\uc2e0\uc5d0\uad00\ud55c\uaddc\uc815/\ub300\ud1b5\ub839\ub839.md",
+      "source_location": "\uc81c8\uc870",
+      "weight": 1.0,
+      "source": "\ud589\uc815\uc5c5\ubb34\uc758\uc6b4\uc601\ubc0f\ud601\uc2e0\uc5d0\uad00\ud55c\uaddc\uc815_\ub300\ud1b5\ub839\ub839",
+      "target": "\ub300\ud1b5\ub839\ub839_\uae30\uc548\ubb38"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "kr/\ud589\uc815\uc5c5\ubb34\uc758\uc6b4\uc601\ubc0f\ud601\uc2e0\uc5d0\uad00\ud55c\uaddc\uc815/\ub300\ud1b5\ub839\ub839.md",
+      "source_location": "\uc81c10\uc870",
+      "weight": 1.0,
+      "source": "\ud589\uc815\uc5c5\ubb34\uc758\uc6b4\uc601\ubc0f\ud601\uc2e0\uc5d0\uad00\ud55c\uaddc\uc815_\ub300\ud1b5\ub839\ub839",
+      "target": "\ub300\ud1b5\ub839\ub839_\ubb38\uc11c\uacb0\uc7ac"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "kr/\ud589\uc815\uc5c5\ubb34\uc758\uc6b4\uc601\ubc0f\ud601\uc2e0\uc5d0\uad00\ud55c\uaddc\uc815/\ub300\ud1b5\ub839\ub839.md",
+      "source_location": "\uc81c26\uc870~\uc81c32\uc870",
+      "weight": 1.0,
+      "source": "\ud589\uc815\uc5c5\ubb34\uc758\uc6b4\uc601\ubc0f\ud601\uc2e0\uc5d0\uad00\ud55c\uaddc\uc815_\ub300\ud1b5\ub839\ub839",
+      "target": "\ub300\ud1b5\ub839\ub839_\uc11c\uc2dd"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "kr/\ud589\uc815\uc5c5\ubb34\uc758\uc6b4\uc601\ubc0f\ud601\uc2e0\uc5d0\uad00\ud55c\uaddc\uc815/\ub300\ud1b5\ub839\ub839.md",
+      "source_location": "\uc81c3\uc870\uc81c11\ud638, \uc81c21\uc870~\uc81c24\uc870",
+      "weight": 1.0,
+      "source": "\ud589\uc815\uc5c5\ubb34\uc758\uc6b4\uc601\ubc0f\ud601\uc2e0\uc5d0\uad00\ud55c\uaddc\uc815_\ub300\ud1b5\ub839\ub839",
+      "target": "\ub300\ud1b5\ub839\ub839_\uc5c5\ubb34\uad00\ub9ac\uc2dc\uc2a4\ud15c"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "kr/\ud589\uc815\uc5c5\ubb34\uc758\uc6b4\uc601\ubc0f\ud601\uc2e0\uc5d0\uad00\ud55c\uaddc\uc815/\ub300\ud1b5\ub839\ub839.md",
+      "source_location": "\uc81c57\uc870",
+      "weight": 1.0,
+      "source": "\ud589\uc815\uc5c5\ubb34\uc758\uc6b4\uc601\ubc0f\ud601\uc2e0\uc5d0\uad00\ud55c\uaddc\uc815_\ub300\ud1b5\ub839\ub839",
+      "target": "\ub300\ud1b5\ub839\ub839_\uc601\uc0c1\ud68c\uc758\uc2e4"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "kr/\ud589\uc815\uc5c5\ubb34\uc758\uc6b4\uc601\ubc0f\ud601\uc2e0\uc5d0\uad00\ud55c\uaddc\uc815/\ub300\ud1b5\ub839\ub839.md",
+      "source_location": "\uc81c3\uc870\uc81c2\ud638",
+      "weight": 1.0,
+      "source": "\ud589\uc815\uc5c5\ubb34\uc758\uc6b4\uc601\ubc0f\ud601\uc2e0\uc5d0\uad00\ud55c\uaddc\uc815_\ub300\ud1b5\ub839\ub839",
+      "target": "\ub300\ud1b5\ub839\ub839_\uc804\uc790\ubb38\uc11c"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "kr/\ud589\uc815\uc5c5\ubb34\uc758\uc6b4\uc601\ubc0f\ud601\uc2e0\uc5d0\uad00\ud55c\uaddc\uc815/\ub300\ud1b5\ub839\ub839.md",
+      "source_location": "\uc81c3\uc870\uc81c10\ud638, \uc81c5\uc870",
+      "weight": 1.0,
+      "source": "\ud589\uc815\uc5c5\ubb34\uc758\uc6b4\uc601\ubc0f\ud601\uc2e0\uc5d0\uad00\ud55c\uaddc\uc815_\ub300\ud1b5\ub839\ub839",
+      "target": "\ub300\ud1b5\ub839\ub839_\uc804\uc790\ubb38\uc11c\uc2dc\uc2a4\ud15c"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "kr/\ud589\uc815\uc5c5\ubb34\uc758\uc6b4\uc601\ubc0f\ud601\uc2e0\uc5d0\uad00\ud55c\uaddc\uc815/\ub300\ud1b5\ub839\ub839.md",
+      "source_location": "\uc81c33\uc870\uc81c3\ud56d, \uc81c37\uc870~\uc81c38\uc870",
+      "weight": 1.0,
+      "source": "\ud589\uc815\uc5c5\ubb34\uc758\uc6b4\uc601\ubc0f\ud601\uc2e0\uc5d0\uad00\ud55c\uaddc\uc815_\ub300\ud1b5\ub839\ub839",
+      "target": "\ub300\ud1b5\ub839\ub839_\uc804\uc790\uc774\ubbf8\uc9c0\uad00\uc778"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "kr/\ud589\uc815\uc5c5\ubb34\uc758\uc6b4\uc601\ubc0f\ud601\uc2e0\uc5d0\uad00\ud55c\uaddc\uc815/\ub300\ud1b5\ub839\ub839.md",
+      "source_location": "\uc81c25\uc870",
+      "weight": 1.0,
+      "source": "\ud589\uc815\uc5c5\ubb34\uc758\uc6b4\uc601\ubc0f\ud601\uc2e0\uc5d0\uad00\ud55c\uaddc\uc815_\ub300\ud1b5\ub839\ub839",
+      "target": "\ub300\ud1b5\ub839\ub839_\uc815\ubd80\uc804\uc790\ubb38\uc11c\uc720\ud1b5\uc9c0\uc6d0\uc13c\ud130"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "kr/\ud589\uc815\uc5c5\ubb34\uc758\uc6b4\uc601\ubc0f\ud601\uc2e0\uc5d0\uad00\ud55c\uaddc\uc815/\ub300\ud1b5\ub839\ub839.md",
+      "source_location": "\uc81c63\uc870~\uc81c63\uc870\uc7585",
+      "weight": 1.0,
+      "source": "\ud589\uc815\uc5c5\ubb34\uc758\uc6b4\uc601\ubc0f\ud601\uc2e0\uc5d0\uad00\ud55c\uaddc\uc815_\ub300\ud1b5\ub839\ub839",
+      "target": "\ub300\ud1b5\ub839\ub839_\uc815\ucc45\uc2e4\uba85\uc81c"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "kr/\ud589\uc815\uc5c5\ubb34\uc758\uc6b4\uc601\ubc0f\ud601\uc2e0\uc5d0\uad00\ud55c\uaddc\uc815/\ub300\ud1b5\ub839\ub839.md",
+      "source_location": "\uc81c49\uc870~\uc81c56\uc870",
+      "weight": 1.0,
+      "source": "\ud589\uc815\uc5c5\ubb34\uc758\uc6b4\uc601\ubc0f\ud601\uc2e0\uc5d0\uad00\ud55c\uaddc\uc815_\ub300\ud1b5\ub839\ub839",
+      "target": "\ub300\ud1b5\ub839\ub839_\uc815\ucc45\uc5f0\uad6c"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "kr/\ud589\uc815\uc5c5\ubb34\uc758\uc6b4\uc601\ubc0f\ud601\uc2e0\uc5d0\uad00\ud55c\uaddc\uc815/\ub300\ud1b5\ub839\ub839.md",
+      "source_location": "\uc81c53\uc870~\uc81c54\uc870",
+      "weight": 1.0,
+      "source": "\ud589\uc815\uc5c5\ubb34\uc758\uc6b4\uc601\ubc0f\ud601\uc2e0\uc5d0\uad00\ud55c\uaddc\uc815_\ub300\ud1b5\ub839\ub839",
+      "target": "\ub300\ud1b5\ub839\ub839_\uc815\ucc45\uc5f0\uad6c\uad00\ub9ac\uc2dc\uc2a4\ud15c"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "kr/\ud589\uc815\uc5c5\ubb34\uc758\uc6b4\uc601\ubc0f\ud601\uc2e0\uc5d0\uad00\ud55c\uaddc\uc815/\ub300\ud1b5\ub839\ub839.md",
+      "source_location": "\uc81c50\uc870",
+      "weight": 1.0,
+      "source": "\ud589\uc815\uc5c5\ubb34\uc758\uc6b4\uc601\ubc0f\ud601\uc2e0\uc5d0\uad00\ud55c\uaddc\uc815_\ub300\ud1b5\ub839\ub839",
+      "target": "\ub300\ud1b5\ub839\ub839_\uc815\ucc45\uc5f0\uad6c\uc2ec\uc758\uc704\uc6d0\ud68c"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "kr/\ud589\uc815\uc5c5\ubb34\uc758\uc6b4\uc601\ubc0f\ud601\uc2e0\uc5d0\uad00\ud55c\uaddc\uc815/\ub300\ud1b5\ub839\ub839.md",
+      "source_location": "\uc81c43\uc870\uc7582",
+      "weight": 1.0,
+      "source": "\ud589\uc815\uc5c5\ubb34\uc758\uc6b4\uc601\ubc0f\ud601\uc2e0\uc5d0\uad00\ud55c\uaddc\uc815_\ub300\ud1b5\ub839\ub839",
+      "target": "\ub300\ud1b5\ub839\ub839_\uc9c0\uc2dd\ud589\uc815"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "kr/\ud589\uc815\uc5c5\ubb34\uc758\uc6b4\uc601\ubc0f\ud601\uc2e0\uc5d0\uad00\ud55c\uaddc\uc815/\ub300\ud1b5\ub839\ub839.md",
+      "source_location": "\uc81c46\uc870\uc7582~\uc81c46\uc870\uc7583",
+      "weight": 1.0,
+      "source": "\ud589\uc815\uc5c5\ubb34\uc758\uc6b4\uc601\ubc0f\ud601\uc2e0\uc5d0\uad00\ud55c\uaddc\uc815_\ub300\ud1b5\ub839\ub839",
+      "target": "\ub300\ud1b5\ub839\ub839_\ud589\uc815\uc5c5\ubb34\ud601\uc2e0\uc2dc\uc2a4\ud15c"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "kr/\ud589\uc815\uc5c5\ubb34\uc758\uc6b4\uc601\ubc0f\ud601\uc2e0\uc5d0\uad00\ud55c\uaddc\uc815/\ub300\ud1b5\ub839\ub839.md",
+      "source_location": "\uc81c3\uc870\uc81c12\ud638, \uc81c23\uc870",
+      "weight": 1.0,
+      "source": "\ud589\uc815\uc5c5\ubb34\uc758\uc6b4\uc601\ubc0f\ud601\uc2e0\uc5d0\uad00\ud55c\uaddc\uc815_\ub300\ud1b5\ub839\ub839",
+      "target": "\ub300\ud1b5\ub839\ub839_\ud589\uc815\uc815\ubcf4\uc2dc\uc2a4\ud15c"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "kr/\ud589\uc815\uc5c5\ubb34\uc758\uc6b4\uc601\ubc0f\ud601\uc2e0\uc5d0\uad00\ud55c\uaddc\uc815/\ub300\ud1b5\ub839\ub839.md",
+      "source_location": "\uc81c42\uc870~\uc81c45\uc870",
+      "weight": 1.0,
+      "source": "\ud589\uc815\uc5c5\ubb34\uc758\uc6b4\uc601\ubc0f\ud601\uc2e0\uc5d0\uad00\ud55c\uaddc\uc815_\ub300\ud1b5\ub839\ub839",
+      "target": "\ub300\ud1b5\ub839\ub839_\ud589\uc815\ud611\uc5c5"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "kr/\ud589\uc815\uc5c5\ubb34\uc758\uc6b4\uc601\ubc0f\ud601\uc2e0\uc5d0\uad00\ud55c\uaddc\uc815/\ub300\ud1b5\ub839\ub839.md",
+      "source_location": "\uc81c46\uc870",
+      "weight": 1.0,
+      "source": "\ud589\uc815\uc5c5\ubb34\uc758\uc6b4\uc601\ubc0f\ud601\uc2e0\uc5d0\uad00\ud55c\uaddc\uc815_\ub300\ud1b5\ub839\ub839",
+      "target": "\ub300\ud1b5\ub839\ub839_\ud601\uc2e0\ucc45\uc784\uad00"
+    },
+    {
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "kr/\ud589\uc815\uc5c5\ubb34\uc758\uc6b4\uc601\ubc0f\ud601\uc2e0\uc5d0\uad00\ud55c\uaddc\uc815/\uc2dc\ud589\uaddc\uce59.md",
+      "source_location": "\uc81c1\uc870",
+      "weight": 1.0,
+      "source": "\ud589\uc815\uc5c5\ubb34\uc758\uc6b4\uc601\ubc0f\ud601\uc2e0\uc5d0\uad00\ud55c\uaddc\uc815_\uc2dc\ud589\uaddc\uce59",
+      "target": "\ud589\uc815\uc5c5\ubb34\uc758\uc6b4\uc601\ubc0f\ud601\uc2e0\uc5d0\uad00\ud55c\uaddc\uc815_\ub300\ud1b5\ub839\ub839"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "kr/\ud589\uc815\uc5c5\ubb34\uc758\uc6b4\uc601\ubc0f\ud601\uc2e0\uc5d0\uad00\ud55c\uaddc\uc815/\uc2dc\ud589\uaddc\uce59.md",
+      "source_location": "\uc81c29\uc870",
+      "weight": 1.0,
+      "source": "\ud589\uc815\uc5c5\ubb34\uc758\uc6b4\uc601\ubc0f\ud601\uc2e0\uc5d0\uad00\ud55c\uaddc\uc815_\uc2dc\ud589\uaddc\uce59",
+      "target": "\uc2dc\ud589\uaddc\uce59_\uad00\uc778\ub300\uc7a5"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "kr/\ud589\uc815\uc5c5\ubb34\uc758\uc6b4\uc601\ubc0f\ud601\uc2e0\uc5d0\uad00\ud55c\uaddc\uc815/\uc2dc\ud589\uaddc\uce59.md",
+      "source_location": "\uc81c3\uc870",
+      "weight": 1.0,
+      "source": "\ud589\uc815\uc5c5\ubb34\uc758\uc6b4\uc601\ubc0f\ud601\uc2e0\uc5d0\uad00\ud55c\uaddc\uc815_\uc2dc\ud589\uaddc\uce59",
+      "target": "\uc2dc\ud589\uaddc\uce59_\uae30\uc548\ubb38_\uc11c\uc2dd"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "kr/\ud589\uc815\uc5c5\ubb34\uc758\uc6b4\uc601\ubc0f\ud601\uc2e0\uc5d0\uad00\ud55c\uaddc\uc815/\uc2dc\ud589\uaddc\uce59.md",
+      "source_location": "\uc81c21\uc870",
+      "weight": 1.0,
+      "source": "\ud589\uc815\uc5c5\ubb34\uc758\uc6b4\uc601\ubc0f\ud601\uc2e0\uc5d0\uad00\ud55c\uaddc\uc815_\uc2dc\ud589\uaddc\uce59",
+      "target": "\uc2dc\ud589\uaddc\uce59_\ubb38\uc11c\uad00\ub9ac\uce74\ub4dc"
+    },
+    {
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "kr/\ud589\uc815\uc5c5\ubb34\uc758\uc6b4\uc601\ubc0f\ud601\uc2e0\uc5d0\uad00\ud55c\uaddc\uc815/\uc2dc\ud589\uaddc\uce59.md",
+      "source_location": "\uc81c24\uc870 (\uc601 \uc81c28\uc870\uc81c8\ud56d \uc704\uc784)",
+      "weight": 1.0,
+      "source": "\ud589\uc815\uc5c5\ubb34\uc758\uc6b4\uc601\ubc0f\ud601\uc2e0\uc5d0\uad00\ud55c\uaddc\uc815_\uc2dc\ud589\uaddc\uce59",
+      "target": "\uc2dc\ud589\uaddc\uce59_\uc11c\uc2dd\uc124\uacc4\uae30\uc900"
+    },
+    {
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "kr/\ud589\uc815\uc5c5\ubb34\uc758\uc6b4\uc601\ubc0f\ud601\uc2e0\uc5d0\uad00\ud55c\uaddc\uc815/\uc2dc\ud589\uaddc\uce59.md",
+      "source_location": "\uc81c43\uc870 (\uc601 \uc81c57\uc870\uc81c4\ud56d \uc704\uc784)",
+      "weight": 1.0,
+      "source": "\ud589\uc815\uc5c5\ubb34\uc758\uc6b4\uc601\ubc0f\ud601\uc2e0\uc5d0\uad00\ud55c\uaddc\uc815_\uc2dc\ud589\uaddc\uce59",
+      "target": "\uc2dc\ud589\uaddc\uce59_\uc601\uc0c1\ud68c\uc758\uc2e4_\uc6b4\uc601"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "kr/\ud589\uc815\uc5c5\ubb34\uc758\uc6b4\uc601\ubc0f\ud601\uc2e0\uc5d0\uad00\ud55c\uaddc\uc815/\uc2dc\ud589\uaddc\uce59.md",
+      "source_location": "\uc81c29\uc870~\uc81c30\uc870",
+      "weight": 1.0,
+      "source": "\ud589\uc815\uc5c5\ubb34\uc758\uc6b4\uc601\ubc0f\ud601\uc2e0\uc5d0\uad00\ud55c\uaddc\uc815_\uc2dc\ud589\uaddc\uce59",
+      "target": "\uc2dc\ud589\uaddc\uce59_\uc804\uc790\uc774\ubbf8\uc9c0\uad00\uc778\ub300\uc7a5"
+    },
+    {
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "kr/\ud589\uc815\uc5c5\ubb34\uc758\uc6b4\uc601\ubc0f\ud601\uc2e0\uc5d0\uad00\ud55c\uaddc\uc815/\uc2dc\ud589\uaddc\uce59.md",
+      "source_location": "\uc81c35\uc870 (\uc601 \uc81c50\uc870\uc81c4\ud56d \uc704\uc784)",
+      "weight": 1.0,
+      "source": "\ud589\uc815\uc5c5\ubb34\uc758\uc6b4\uc601\ubc0f\ud601\uc2e0\uc5d0\uad00\ud55c\uaddc\uc815_\uc2dc\ud589\uaddc\uce59",
+      "target": "\uc2dc\ud589\uaddc\uce59_\uc815\ucc45\uc5f0\uad6c\uc2ec\uc758\uc704\uc6d0\ud68c_\uad6c\uc131"
+    },
+    {
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "kr/\ud589\uc815\uc5c5\ubb34\uc758\uc6b4\uc601\ubc0f\ud601\uc2e0\uc5d0\uad00\ud55c\uaddc\uc815/\ub300\ud1b5\ub839\ub839.md",
+      "source_location": "\uc81c3\uc870\uc81c2\ud638\uc7582",
+      "weight": 1.0,
+      "source": "\ub300\ud1b5\ub839\ub839_\uac1c\ubc29\ud615\ubb38\uc11c\ud615\uc2dd",
+      "target": "\ub300\ud1b5\ub839\ub839_\uc804\uc790\ubb38\uc11c"
+    },
+    {
+      "relation": "shares_data_with",
+      "confidence": "INFERRED",
+      "confidence_score": 0.95,
+      "source_file": "kr/\ud589\uc815\uc5c5\ubb34\uc758\uc6b4\uc601\ubc0f\ud601\uc2e0\uc5d0\uad00\ud55c\uaddc\uc815/\ub300\ud1b5\ub839\ub839.md",
+      "source_location": "\uc81c3\uc870, \uc81c5\uc870",
+      "weight": 0.95,
+      "source": "\ub300\ud1b5\ub839\ub839_\uc804\uc790\ubb38\uc11c",
+      "target": "\ub300\ud1b5\ub839\ub839_\uc804\uc790\ubb38\uc11c\uc2dc\uc2a4\ud15c"
+    },
+    {
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "kr/\ud589\uc815\uc5c5\ubb34\uc758\uc6b4\uc601\ubc0f\ud601\uc2e0\uc5d0\uad00\ud55c\uaddc\uc815/\ub300\ud1b5\ub839\ub839.md",
+      "source_location": "\uc81c3\uc870\uc81c8\ud638, \uc81c6\uc870",
+      "weight": 1.0,
+      "source": "\ub300\ud1b5\ub839\ub839_\ud589\uc815\uc804\uc790\uc11c\uba85",
+      "target": "\ub300\ud1b5\ub839\ub839_\uc804\uc790\ubb38\uc11c"
+    },
+    {
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "kr/\ud589\uc815\uc5c5\ubb34\uc758\uc6b4\uc601\ubc0f\ud601\uc2e0\uc5d0\uad00\ud55c\uaddc\uc815/\ub300\ud1b5\ub839\ub839.md",
+      "source_location": "\uc81c23\uc870, \uc81c24\uc870",
+      "weight": 1.0,
+      "source": "\ub300\ud1b5\ub839\ub839_\uc804\uc790\ubb38\uc11c\uc2dc\uc2a4\ud15c",
+      "target": "\ub300\ud1b5\ub839\ub839_\uc5c5\ubb34\uad00\ub9ac\uc2dc\uc2a4\ud15c"
+    },
+    {
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "kr/\ud589\uc815\uc5c5\ubb34\uc758\uc6b4\uc601\ubc0f\ud601\uc2e0\uc5d0\uad00\ud55c\uaddc\uc815/\ub300\ud1b5\ub839\ub839.md",
+      "source_location": "\uc81c25\uc870\uc81c2\ud56d",
+      "weight": 1.0,
+      "source": "\ub300\ud1b5\ub839\ub839_\uc815\ubd80\uc804\uc790\ubb38\uc11c\uc720\ud1b5\uc9c0\uc6d0\uc13c\ud130",
+      "target": "\ub300\ud1b5\ub839\ub839_\uc804\uc790\ubb38\uc11c\uc2dc\uc2a4\ud15c"
+    },
+    {
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "kr/\ud589\uc815\uc5c5\ubb34\uc758\uc6b4\uc601\ubc0f\ud601\uc2e0\uc5d0\uad00\ud55c\uaddc\uc815/\ub300\ud1b5\ub839\ub839.md",
+      "source_location": "\uc81c23\uc870",
+      "weight": 1.0,
+      "source": "\ub300\ud1b5\ub839\ub839_\uc5c5\ubb34\uad00\ub9ac\uc2dc\uc2a4\ud15c",
+      "target": "\ub300\ud1b5\ub839\ub839_\ud589\uc815\uc815\ubcf4\uc2dc\uc2a4\ud15c"
+    },
+    {
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "kr/\ud589\uc815\uc5c5\ubb34\uc758\uc6b4\uc601\ubc0f\ud601\uc2e0\uc5d0\uad00\ud55c\uaddc\uc815/\uc2dc\ud589\uaddc\uce59.md",
+      "source_location": "\uc81c21\uc870 (\uc601 \uc81c22\uc870 \uc704\uc784)",
+      "weight": 1.0,
+      "source": "\uc2dc\ud589\uaddc\uce59_\ubb38\uc11c\uad00\ub9ac\uce74\ub4dc",
+      "target": "\ub300\ud1b5\ub839\ub839_\uc5c5\ubb34\uad00\ub9ac\uc2dc\uc2a4\ud15c"
+    },
+    {
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "kr/\ud589\uc815\uc5c5\ubb34\uc758\uc6b4\uc601\ubc0f\ud601\uc2e0\uc5d0\uad00\ud55c\uaddc\uc815/\ub300\ud1b5\ub839\ub839.md",
+      "source_location": "\uc81c43\uc870\uc7582\uc81c3\ud56d",
+      "weight": 1.0,
+      "source": "\ub300\ud1b5\ub839\ub839_\uc9c0\uc2dd\ud589\uc815",
+      "target": "\ub300\ud1b5\ub839\ub839_\ud589\uc815\uc815\ubcf4\uc2dc\uc2a4\ud15c"
+    },
+    {
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "kr/\ud589\uc815\uc5c5\ubb34\uc758\uc6b4\uc601\ubc0f\ud601\uc2e0\uc5d0\uad00\ud55c\uaddc\uc815/\ub300\ud1b5\ub839\ub839.md",
+      "source_location": "\uc81c33\uc870~\uc81c38\uc870",
+      "weight": 1.0,
+      "source": "\ub300\ud1b5\ub839\ub839_\uc804\uc790\uc774\ubbf8\uc9c0\uad00\uc778",
+      "target": "\ub300\ud1b5\ub839\ub839_\uad00\uc778"
+    },
+    {
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "kr/\ud589\uc815\uc5c5\ubb34\uc758\uc6b4\uc601\ubc0f\ud601\uc2e0\uc5d0\uad00\ud55c\uaddc\uc815/\uc2dc\ud589\uaddc\uce59.md",
+      "source_location": "\uc81c29\uc870~\uc81c31\uc870",
+      "weight": 1.0,
+      "source": "\uc2dc\ud589\uaddc\uce59_\uc804\uc790\uc774\ubbf8\uc9c0\uad00\uc778\ub300\uc7a5",
+      "target": "\ub300\ud1b5\ub839\ub839_\uc804\uc790\uc774\ubbf8\uc9c0\uad00\uc778"
+    },
+    {
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "kr/\ud589\uc815\uc5c5\ubb34\uc758\uc6b4\uc601\ubc0f\ud601\uc2e0\uc5d0\uad00\ud55c\uaddc\uc815/\uc2dc\ud589\uaddc\uce59.md",
+      "source_location": "\uc81c29\uc870 (\uc601 \uc81c36\uc870\uc81c1\ud56d \uc704\uc784)",
+      "weight": 1.0,
+      "source": "\uc2dc\ud589\uaddc\uce59_\uad00\uc778\ub300\uc7a5",
+      "target": "\ub300\ud1b5\ub839\ub839_\uad00\uc778"
+    },
+    {
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "kr/\ud589\uc815\uc5c5\ubb34\uc758\uc6b4\uc601\ubc0f\ud601\uc2e0\uc5d0\uad00\ud55c\uaddc\uc815/\ub300\ud1b5\ub839\ub839.md",
+      "source_location": "\uc81c49\uc870~\uc81c63\uc870\uc7585",
+      "weight": 0.65,
+      "source": "\ub300\ud1b5\ub839\ub839_\uc815\ucc45\uc2e4\uba85\uc81c",
+      "target": "\ub300\ud1b5\ub839\ub839_\uc815\ucc45\uc5f0\uad6c"
+    },
+    {
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "kr/\ud589\uc815\uc5c5\ubb34\uc758\uc6b4\uc601\ubc0f\ud601\uc2e0\uc5d0\uad00\ud55c\uaddc\uc815/\ub300\ud1b5\ub839\ub839.md",
+      "source_location": "\uc81c53\uc870~\uc81c54\uc870",
+      "weight": 1.0,
+      "source": "\ub300\ud1b5\ub839\ub839_\uc815\ucc45\uc5f0\uad6c",
+      "target": "\ub300\ud1b5\ub839\ub839_\uc815\ucc45\uc5f0\uad6c\uad00\ub9ac\uc2dc\uc2a4\ud15c"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "kr/\ud589\uc815\uc5c5\ubb34\uc758\uc6b4\uc601\ubc0f\ud601\uc2e0\uc5d0\uad00\ud55c\uaddc\uc815/\ub300\ud1b5\ub839\ub839.md",
+      "source_location": "\uc81c51\uc870",
+      "weight": 1.0,
+      "source": "\ub300\ud1b5\ub839\ub839_\uc815\ucc45\uc5f0\uad6c",
+      "target": "\ub300\ud1b5\ub839\ub839_\uc815\ucc45\uc5f0\uad6c\uc2ec\uc758\uc704\uc6d0\ud68c"
+    },
+    {
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "kr/\ud589\uc815\uc5c5\ubb34\uc758\uc6b4\uc601\ubc0f\ud601\uc2e0\uc5d0\uad00\ud55c\uaddc\uc815/\uc2dc\ud589\uaddc\uce59.md",
+      "source_location": "\uc81c35\uc870",
+      "weight": 1.0,
+      "source": "\uc2dc\ud589\uaddc\uce59_\uc815\ucc45\uc5f0\uad6c\uc2ec\uc758\uc704\uc6d0\ud68c_\uad6c\uc131",
+      "target": "\ub300\ud1b5\ub839\ub839_\uc815\ucc45\uc5f0\uad6c\uc2ec\uc758\uc704\uc6d0\ud68c"
+    },
+    {
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "kr/\ud589\uc815\uc5c5\ubb34\uc758\uc6b4\uc601\ubc0f\ud601\uc2e0\uc5d0\uad00\ud55c\uaddc\uc815/\ub300\ud1b5\ub839\ub839.md",
+      "source_location": "\uc81c42\uc870\uc7582, \uc81c43\uc870\uc81c5\ud56d",
+      "weight": 1.0,
+      "source": "\ub300\ud1b5\ub839\ub839_\ud589\uc815\ud611\uc5c5",
+      "target": "\ub300\ud1b5\ub839\ub839_\ud589\uc815\uc5c5\ubb34\ud601\uc2e0\uc2dc\uc2a4\ud15c"
+    },
+    {
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "kr/\ud589\uc815\uc5c5\ubb34\uc758\uc6b4\uc601\ubc0f\ud601\uc2e0\uc5d0\uad00\ud55c\uaddc\uc815/\ub300\ud1b5\ub839\ub839.md",
+      "source_location": "\uc81c46\uc870\uc81c2\ud56d",
+      "weight": 1.0,
+      "source": "\ub300\ud1b5\ub839\ub839_\ud601\uc2e0\ucc45\uc784\uad00",
+      "target": "\ub300\ud1b5\ub839\ub839_\ud589\uc815\ud611\uc5c5"
+    },
+    {
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "kr/\ud589\uc815\uc5c5\ubb34\uc758\uc6b4\uc601\ubc0f\ud601\uc2e0\uc5d0\uad00\ud55c\uaddc\uc815/\uc2dc\ud589\uaddc\uce59.md",
+      "source_location": "\uc81c24\uc870",
+      "weight": 1.0,
+      "source": "\uc2dc\ud589\uaddc\uce59_\uc11c\uc2dd\uc124\uacc4\uae30\uc900",
+      "target": "\ub300\ud1b5\ub839\ub839_\uc11c\uc2dd"
+    },
+    {
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "kr/\ud589\uc815\uc5c5\ubb34\uc758\uc6b4\uc601\ubc0f\ud601\uc2e0\uc5d0\uad00\ud55c\uaddc\uc815/\uc2dc\ud589\uaddc\uce59.md",
+      "source_location": "\uc81c3\uc870 (\uc601 \uc81c8\uc870\uc81c2\ud56d \uc704\uc784)",
+      "weight": 1.0,
+      "source": "\uc2dc\ud589\uaddc\uce59_\uae30\uc548\ubb38_\uc11c\uc2dd",
+      "target": "\ub300\ud1b5\ub839\ub839_\uae30\uc548\ubb38"
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "\uc804\uc790\ubb38\uc11c\ucc98\ub9ac_\ud1b5\ud569_\uc2dc\uc2a4\ud15c\uad70",
+      "label": "\uc804\uc790\ubb38\uc11c \ucc98\ub9ac \ud1b5\ud569 \uc2dc\uc2a4\ud15c\uad70 (\uc804\uc790\ubb38\uc11c\uc2dc\uc2a4\ud15c\u00b7\uc5c5\ubb34\uad00\ub9ac\uc2dc\uc2a4\ud15c\u00b7\ud589\uc815\uc815\ubcf4\uc2dc\uc2a4\ud15c \uc5f0\uacc4)",
+      "nodes": [
+        "\ub300\ud1b5\ub839\ub839_\uc804\uc790\ubb38\uc11c\uc2dc\uc2a4\ud15c",
+        "\ub300\ud1b5\ub839\ub839_\uc5c5\ubb34\uad00\ub9ac\uc2dc\uc2a4\ud15c",
+        "\ub300\ud1b5\ub839\ub839_\ud589\uc815\uc815\ubcf4\uc2dc\uc2a4\ud15c"
+      ],
+      "relation": "participate_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "kr/\ud589\uc815\uc5c5\ubb34\uc758\uc6b4\uc601\ubc0f\ud601\uc2e0\uc5d0\uad00\ud55c\uaddc\uc815/\ub300\ud1b5\ub839\ub839.md"
+    },
+    {
+      "id": "\uc815\ucc45\uc5f0\uad6c_\uad00\ub9ac_\uccb4\uacc4",
+      "label": "\uc815\ucc45\uc5f0\uad6c \uad00\ub9ac \uccb4\uacc4 (\uc815\ucc45\uc5f0\uad6c\u00b7\uc2ec\uc758\uc704\uc6d0\ud68c\u00b7\uad00\ub9ac\uc2dc\uc2a4\ud15c)",
+      "nodes": [
+        "\ub300\ud1b5\ub839\ub839_\uc815\ucc45\uc5f0\uad6c",
+        "\ub300\ud1b5\ub839\ub839_\uc815\ucc45\uc5f0\uad6c\uc2ec\uc758\uc704\uc6d0\ud68c",
+        "\ub300\ud1b5\ub839\ub839_\uc815\ucc45\uc5f0\uad6c\uad00\ub9ac\uc2dc\uc2a4\ud15c"
+      ],
+      "relation": "form",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "kr/\ud589\uc815\uc5c5\ubb34\uc758\uc6b4\uc601\ubc0f\ud601\uc2e0\uc5d0\uad00\ud55c\uaddc\uc815/\ub300\ud1b5\ub839\ub839.md"
+    },
+    {
+      "id": "\ud589\uc815\uc5c5\ubb34\ud601\uc2e0_\ucd94\uc9c4\uccb4\uacc4",
+      "label": "\ud589\uc815\uc5c5\ubb34 \ud601\uc2e0 \ucd94\uc9c4\uccb4\uacc4 (\ud589\uc815\ud611\uc5c5\u00b7\ud601\uc2e0\ucc45\uc784\uad00\u00b7\ud589\uc815\uc5c5\ubb34\ud601\uc2e0\uc2dc\uc2a4\ud15c)",
+      "nodes": [
+        "\ub300\ud1b5\ub839\ub839_\ud589\uc815\ud611\uc5c5",
+        "\ub300\ud1b5\ub839\ub839_\ud601\uc2e0\ucc45\uc784\uad00",
+        "\ub300\ud1b5\ub839\ub839_\ud589\uc815\uc5c5\ubb34\ud601\uc2e0\uc2dc\uc2a4\ud15c"
+      ],
+      "relation": "participate_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "kr/\ud589\uc815\uc5c5\ubb34\uc758\uc6b4\uc601\ubc0f\ud601\uc2e0\uc5d0\uad00\ud55c\uaddc\uc815/\ub300\ud1b5\ub839\ub839.md"
+    }
+  ],
+  "built_at_commit": "874b58594654505fdc409fd42c02d100d84d51ce"
+}
