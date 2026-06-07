@@ -1,0 +1,46 @@
+# 빌드 결과물 제외
+build/
+target/
+dotfiles/
+bin/
+*.class
+*.war
+*.jar
+*.zip
+
+# IDE 설정 파일 제외
+.settings/
+.metadata/
+.classpath
+.project
+.svg
+.woff
+.ico
+
+# IDE 설정 파일 제외
+graphify-out/
+
+# IDE 애너테이션 처리기 설정 (CA)
+.factorypath
+
+# 로그 및 임시 파일
+*.log
+logs/
+tmp/
+Thumbs.db
+
+# IP 허용목록 런타임 백업 폴더 (CA)
+ipAuthTemp/
+
+# 큰 파일
+ClipReport5/
+font/
+dx5\
+*.exe
+*.ttf
+*.svg
+*.woff
+*.wof2
+# 문서화 임시 검증 폴더(mermaid/puppeteer node_modules) — 수동 삭제 가능
+doc/process/assets/_mmtest/
+doc/process/assets/_rtest/
